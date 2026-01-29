@@ -41,3 +41,9 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 * [ ] First thing here
 * [ ]
 * [ ]
+  Time Log:
+  1/26: planning team 1 hour
+  1/27: App 1 hour
+  1/28: Extention 1 hour
+  1/28: App 30 min
+  1/29:
